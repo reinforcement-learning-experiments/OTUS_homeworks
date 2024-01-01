@@ -1,2 +1,2 @@
 # OTUS_homeworks
-OTUS homeworks
+This repository will be used to collect OTUS home works.
